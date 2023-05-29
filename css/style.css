@@ -83,6 +83,7 @@ footer {
     margin-left: 40px;
     margin-top: 40px;
     border-radius: 10px;
+    transition: 0.5s;
 }
 
 .img2 {
@@ -90,6 +91,6 @@ footer {
 }
 
 footer:hover {
-    color: hsl(159, 37%, 22%);
+    background-color: hsl(159, 37%, 22%);
 }
 
